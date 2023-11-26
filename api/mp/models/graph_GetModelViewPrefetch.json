@@ -1,0 +1,705 @@
+{
+  "errors" : [ {
+    "message" : "Error fetching data (path: /model/notes, code: request.unauthorized): Unauthorized",
+    "locations" : [ {
+      "line" : 24,
+      "column" : 5
+    } ],
+    "path" : [ "model", "notes" ],
+    "extensions" : {
+      "code" : "request.unauthorized",
+      "retry" : "false",
+      "httpCode" : "401",
+      "classification" : "DataFetchingException"
+    }
+  } ],
+  "data" : {
+    "model" : {
+      "id" : "NVHpqmfehxp",
+      "mattertags" : [ {
+        "id" : "AQ4IQDAcyUE",
+        "label" : "TOURISM IN PINEDA DE MAR",
+        "description" : "Pineda De Mar is a municipality in the comarca of the Maresme in Catalonia. It is situated on the coast between Calella and Santa Susanna. The main N-II road and a RENFE railway line run through the town. The town centre has several historical buildings from the 17th to the 19th centuries It is situated on the Coast Barcelona Maresme",
+        "color" : "#00bcd4",
+        "enabled" : true,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : null,
+        "anchorPosition" : {
+          "x" : -2.0158112070624483,
+          "y" : 0.08262493642550384,
+          "z" : -0.0016832686038471914,
+          "__typename" : "Point"
+        },
+        "stemEnabled" : true,
+        "stemNormal" : {
+          "x" : 0.0011948526982171932,
+          "y" : -4.110931201198603E-4,
+          "z" : 0.9999992016644195,
+          "__typename" : "Point"
+        },
+        "stemLength" : 1.5048194016247274,
+        "media" : "https://www.youtube.com/watch?v=JQuH8qgbT70&ab_channel=TravelSanctuary",
+        "mediaType" : "video",
+        "created" : "2023-04-07T06:16:16Z",
+        "modified" : "2023-04-07T06:16:17Z",
+        "externalAttachments" : [ ],
+        "fileAttachments" : [ ],
+        "objectAnnotation" : null,
+        "keywords" : [ ],
+        "icon" : null,
+        "__typename" : "Mattertag"
+      } ],
+      "orderedLists" : [ ],
+      "labels" : [ {
+        "id" : "aOvGodQls8C",
+        "position" : {
+          "x" : -1.1937407675097056,
+          "y" : -2.8539445383317967,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+          "meshId" : 5,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "ROOM 3 DOUBLE BED",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:20Z",
+        "modified" : "2023-04-07T05:57:24Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "pbuWK6dwP8z",
+        "position" : {
+          "x" : 4.91409133203568,
+          "y" : 0.7350824652948721,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "HALLWAY ",
+        "enabled" : true,
+        "created" : "2023-04-07T05:58:54Z",
+        "modified" : "2023-04-07T05:58:54Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "VTANx7PKtTO",
+        "position" : {
+          "x" : 2.0709765671145535,
+          "y" : -3.156633562734046,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "3m54yff1z7crxaywd8if9rb0d",
+          "meshId" : 7,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "KITCHEN",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:10Z",
+        "modified" : "2023-04-07T05:57:10Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "0LmThSKUjOt",
+        "position" : {
+          "x" : -3.3233742606255294,
+          "y" : -0.06488138491107234,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "BALCONY",
+        "enabled" : true,
+        "created" : "2023-04-07T05:58:14Z",
+        "modified" : "2023-04-07T05:58:18Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "uc8T8uneJWS",
+        "position" : {
+          "x" : 8.081515765959217,
+          "y" : -1.6756194076230408,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+          "meshId" : 6,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "ROOM 1 SINGLE BED",
+        "enabled" : true,
+        "created" : "2023-04-07T05:55:44Z",
+        "modified" : "2023-04-07T05:55:48Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "uoZLMWIelhr",
+        "position" : {
+          "x" : 10.038184102273753,
+          "y" : -1.2107755487195866,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "HALL",
+        "enabled" : true,
+        "created" : "2023-04-07T06:00:05Z",
+        "modified" : "2023-04-07T06:00:05Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "LdKh93Rq0v1",
+        "position" : {
+          "x" : 5.097866811137044,
+          "y" : -0.29189815321275897,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+          "meshId" : 8,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "ROOM 2 SINGLE BED",
+        "enabled" : true,
+        "created" : "2023-04-07T05:56:23Z",
+        "modified" : "2023-04-07T05:56:29Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "MRUsXx6DJPj",
+        "position" : {
+          "x" : -0.9559136769079384,
+          "y" : -0.1513639633117149,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "LIVING ROOM DINING ROOM",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:58Z",
+        "modified" : "2023-04-07T05:58:01Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "YNnq0yaGzJ2",
+        "position" : {
+          "x" : 2.8601300950204176,
+          "y" : -0.5081045992143656,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "a5f9age4zzxewres6iqux2emc",
+          "meshId" : 9,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "BATHROOM",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:02Z",
+        "modified" : "2023-04-07T05:57:02Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "876PfyqoFWd",
+        "position" : {
+          "x" : 10.027373779973676,
+          "y" : -0.9621381358177393,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "RECEPTION",
+        "enabled" : true,
+        "created" : "2023-04-07T05:59:29Z",
+        "modified" : "2023-04-07T05:59:55Z",
+        "__typename" : "Label"
+      } ],
+      "measurementPaths" : [ {
+        "id" : "nk1z1ywz05rktd3a7xp5kczua",
+        "lineType" : "linetype_3D",
+        "label" : null,
+        "enabled" : true,
+        "points" : [ {
+          "position" : {
+            "x" : -1.1620481967828855,
+            "y" : -1.6077703933492815,
+            "z" : 1.9710555359859423,
+            "__typename" : "Point"
+          },
+          "floor" : {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "__typename" : "ModelFloor"
+          },
+          "room" : {
+            "id" : "613htqkzf66zz7hf7n8kzszed",
+            "meshId" : 2,
+            "__typename" : "ModelRoom"
+          },
+          "__typename" : "MeasurementPathPoint"
+        }, {
+          "position" : {
+            "x" : -1.9482062473164208,
+            "y" : -1.5763960095673388,
+            "z" : 1.5078419058803865,
+            "__typename" : "Point"
+          },
+          "floor" : {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "__typename" : "ModelFloor"
+          },
+          "room" : {
+            "id" : "613htqkzf66zz7hf7n8kzszed",
+            "meshId" : 2,
+            "__typename" : "ModelRoom"
+          },
+          "__typename" : "MeasurementPathPoint"
+        } ],
+        "created" : "2023-05-01T16:52:33Z",
+        "modified" : "2023-05-01T16:52:33Z",
+        "__typename" : "MeasurementPath"
+      } ],
+      "activeHighlightReel" : {
+        "id" : "6fd2p32w2pbxir25nr0s89taa",
+        "label" : "active_reel",
+        "mode" : "story",
+        "reel" : [ {
+          "overrides" : null,
+          "asset" : {
+            "id" : "XoBYKUK9mcQ",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "FwZ5aqjoPRc",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "4p5HYScXVrB",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "rHaLGSZmPbc",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "GZFydFUGkqV",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "TwkevF4pYan",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "242XbAFWSz7",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "aV3pLwUa1hi",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "bmnG3a17iNk",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "3XyNgy7JYuy",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "5P4qZY6dyLw",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "vEFNdUNtZkB",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "DXSNLVQL7iU",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "Xg5g9eZ9tG6",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "i8gW9vsx5RA",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "yNxtmbergJh",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "ePv5uBgfUSN",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "DaH5bsZXNkh",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "YAE9jXCyHJG",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "tRGm3b7Jxkm",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "Jm6AXEuA9s9",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "JHg7FXm3ff9",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "ky4pC4iPQTQ",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "mxtHaTC9Noj",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "migtnot3M7J",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "oqVyP86eBJD",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "yKon3ubfw9m",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "i3TET8hxESh",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "DxozogumXQ7",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "eosFhHerfNm",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "Rcfws6tEaDU",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "re58U7hbSey",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "16s6yKn8vUo",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        }, {
+          "overrides" : null,
+          "asset" : {
+            "id" : "mQMqD7MagTP",
+            "__typename" : "Photo"
+          },
+          "title" : null,
+          "description" : null,
+          "__typename" : "ReelElement"
+        } ],
+        "__typename" : "HighlightReel"
+      },
+      "notes" : null,
+      "image" : {
+        "id" : "mQMqD7MagTP",
+        "label" : "04.06.2023_13.32.08",
+        "classification" : null,
+        "category" : "snapshot",
+        "height" : 1707,
+        "width" : 3034,
+        "created" : "2023-04-06T11:32:06Z",
+        "modified" : "2023-04-06T11:32:06Z",
+        "status" : "available",
+        "filename" : null,
+        "format" : "image",
+        "url" : "http://127.0.0.1:8080/apifs/models/NVHpqmfehxp/images/mQMqD7MagTP/04.06.2023_13.32.08.jpg?t=2-449693692729d412ed863c266a3d7697fbfbf866-1700986248-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "user",
+        "validUntil":"2099-01-01T08:10:48Z",
+        "thumbnailUrl" : "http://127.0.0.1:8080/apifs/models/NVHpqmfehxp/images/mQMqD7MagTP/04.06.2023_13.32.08.jpg?t=2-449693692729d412ed863c266a3d7697fbfbf866-1700986248-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "http://127.0.0.1:8080/apifs/models/NVHpqmfehxp/images/mQMqD7MagTP/04.06.2023_13.32.08.jpg?t=2-449693692729d412ed863c266a3d7697fbfbf866-1700986248-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : -0.049397893249988556,
+            "y" : -0.06466937810182571,
+            "z" : 1.6672838926315308,
+            "__typename" : "Point"
+          },
+          "rotation" : {
+            "x" : 0.5630230541647757,
+            "y" : 0.5503316704237861,
+            "z" : -0.4309725120205526,
+            "w" : -0.4409113140663429,
+            "__typename" : "Quaternion"
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "sequence" : 0,
+            "__typename" : "ModelFloor"
+          } ],
+          "anchor" : {
+            "id" : "upqmzrig8mw6e377yp6dwq5pc",
+            "pano" : {
+              "id" : "upqmzrig8mw6e377yp6dwq5pc",
+              "placement" : "auto",
+              "__typename" : "PanoramicImageLocation"
+            },
+            "__typename" : "AnchorLocation"
+          },
+          "__typename" : "SnapshotLocation"
+        },
+        "__typename" : "Photo"
+      },
+      "__typename" : "Model"
+    }
+  }
+}

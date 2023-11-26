@@ -1,0 +1,206 @@
+{
+  "errors" : [ {
+    "message" : "Error fetching data (path: /model/organization, code: request.unauthorized): Unauthorized",
+    "locations" : [ {
+      "line" : 5,
+      "column" : 5
+    } ],
+    "path" : [ "model", "organization" ],
+    "extensions" : {
+      "code" : "request.unauthorized",
+      "retry" : "false",
+      "httpCode" : "401",
+      "classification" : "DataFetchingException"
+    }
+  }, {
+    "message" : "Error fetching data (path: /model/visibility, code: request.unauthorized): Unauthorized",
+    "locations" : [ {
+      "line" : 6,
+      "column" : 5
+    } ],
+    "path" : [ "model", "visibility" ],
+    "extensions" : {
+      "code" : "request.unauthorized",
+      "retry" : "false",
+      "httpCode" : "401",
+      "classification" : "DataFetchingException"
+    }
+  }, {
+    "message" : "Error fetching data (path: /model/created, code: request.unauthorized): Unauthorized",
+    "locations" : [ {
+      "line" : 8,
+      "column" : 5
+    } ],
+    "path" : [ "model", "created" ],
+    "extensions" : {
+      "code" : "request.unauthorized",
+      "retry" : "false",
+      "httpCode" : "401",
+      "classification" : "DataFetchingException"
+    }
+  }, {
+    "message" : "Error fetching data (path: /model/state, code: request.unauthorized): Unauthorized",
+    "locations" : [ {
+      "line" : 28,
+      "column" : 3
+    } ],
+    "path" : [ "model", "state" ],
+    "extensions" : {
+      "code" : "request.unauthorized",
+      "retry" : "false",
+      "httpCode" : "401",
+      "classification" : "DataFetchingException"
+    }
+  } ],
+  "data" : {
+    "model" : {
+      "id" : "NVHpqmfehxp",
+      "name" : "PREMIUM HABITAT LA RIERA",
+      "organization" : null,
+      "visibility" : null,
+      "discoverable" : true,
+      "created" : null,
+      "state" : null,
+      "__typename" : "Model",
+      "image" : {
+        "id" : "mQMqD7MagTP",
+        "label" : "04.06.2023_13.32.08",
+        "classification" : null,
+        "category" : "snapshot",
+        "height" : 1707,
+        "width" : 3034,
+        "created" : "2023-04-06T11:32:06Z",
+        "modified" : "2023-04-06T11:32:06Z",
+        "status" : "available",
+        "filename" : null,
+        "format" : "image",
+        "url" : "http://127.0.0.1:8080/apifs/models/NVHpqmfehxp/images/mQMqD7MagTP/04.06.2023_13.32.08.jpg?t=2-18d0b3bc273b6e832b3412934ac89da5497c6875-1700986246-1",
+        "resolutions" : [ "icon", "thumbnail", "preview", "web", "presentation", "original" ],
+        "type" : "photo2D",
+        "origin" : "user",
+        "validUntil":"2099-01-01T08:10:46Z",
+        "thumbnailUrl" : "http://127.0.0.1:8080/apifs/models/NVHpqmfehxp/images/mQMqD7MagTP/04.06.2023_13.32.08.jpg?t=2-18d0b3bc273b6e832b3412934ac89da5497c6875-1700986246-1&width=200&height=140&fit=crop&disable=upscale",
+        "presentationUrl" : "http://127.0.0.1:8080/apifs/models/NVHpqmfehxp/images/mQMqD7MagTP/04.06.2023_13.32.08.jpg?t=2-18d0b3bc273b6e832b3412934ac89da5497c6875-1700986246-1&width=1920&height=1080&fit=crop&disable=upscale",
+        "snapshotLocation" : {
+          "viewMode" : "panorama",
+          "position" : {
+            "x" : -0.049397893249988556,
+            "y" : -0.06466937810182571,
+            "z" : 1.6672838926315308,
+            "__typename" : "Point"
+          },
+          "rotation" : {
+            "x" : 0.5630230541647757,
+            "y" : 0.5503316704237861,
+            "z" : -0.4309725120205526,
+            "w" : -0.4409113140663429,
+            "__typename" : "Quaternion"
+          },
+          "zoom" : 1.0,
+          "floorVisibility" : [ {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "sequence" : 0,
+            "__typename" : "ModelFloor"
+          } ],
+          "anchor" : {
+            "id" : "upqmzrig8mw6e377yp6dwq5pc",
+            "pano" : {
+              "id" : "upqmzrig8mw6e377yp6dwq5pc",
+              "placement" : "auto",
+              "__typename" : "PanoramicImageLocation"
+            },
+            "__typename" : "AnchorLocation"
+          },
+          "__typename" : "SnapshotLocation"
+        },
+        "__typename" : "Photo"
+      },
+      "publication" : {
+        "address" : "Barcelona España",
+        "published" : true,
+        "lastPublished" : null,
+        "presentedBy" : "PREMIUM HABITAT",
+        "summary" : "Hey adventurer! Are you ready for a beach getaway? This apartment in Pineda de Mar is what you need!",
+        "externalUrl" : "https://premiumhabitatlux.com/estate/1655671/premium-habitat-la-riera",
+        "contact" : {
+          "name" : "Joan Carles R.",
+          "email" : "info@premiumhabitatlux.com",
+          "phoneNumber" : "+34687914234",
+          "__typename" : "ModelContact"
+        },
+        "__typename" : "ModelPublicationDetails"
+      },
+      "options" : {
+        "backgroundColor" : "black",
+        "dollhouseEnabled" : true,
+        "dollhouseLabelsEnabled" : true,
+        "floorSelectEnabled" : true,
+        "floorplanEnabled" : true,
+        "highlightReelEnabled" : true,
+        "labelsEnabled" : true,
+        "measurements" : "measureAndView",
+        "socialSharingEnabled" : true,
+        "spaceSearchEnabled" : true,
+        "tourButtonsEnabled" : true,
+        "tourDollhousePanSpeed" : 2,
+        "tourFastTransitionsEnabled" : false,
+        "tourPanAngle" : 35,
+        "tourPanDirection" : "auto",
+        "tourPanSpeed" : 10,
+        "tourTransitionSpeed" : 1250,
+        "tourTransitionTime" : 600,
+        "tourZoomDuration" : 3500,
+        "unitType" : "metric",
+        "vrEnabled" : true,
+        "__typename" : "ModelOptions"
+      },
+      "assets" : {
+        "meshes" : [ {
+          "id" : "meshes/f67ugyy2xyfg8t2uc3xibfy9b",
+          "status" : "available",
+          "filename" : "079cc5182f2d46fea01a7b21612cd78f_50k.dam",
+          "format" : "dam",
+          "resolution" : "50k",
+          "url" : "http://127.0.0.1:8080/models/8814a7bd8c4e46a3b1b1d3ed0adce991/assets/079cc5182f2d46fea01a7b21612cd78f_50k.dam?t=2-1c4c9923f7559ad73a84ded85f363db0dcb10255-1700986246-1",
+          "validUntil":"2099-01-01T08:10:46Z",
+          "__typename" : "Mesh"
+        } ],
+        "textures" : [ {
+          "id" : "50k-low",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "low",
+          "urlTemplate" : "http://127.0.0.1:8080/models/8814a7bd8c4e46a3b1b1d3ed0adce991/assets/~/079cc5182f2d46fea01a7b21612cd78f_50k_texture_jpg_low/079cc5182f2d46fea01a7b21612cd78f_50k_<texture>.jpg?t=2-c8a6f53e9724d7eb56ed796242f8bc6552f8b96d-1700986246-0&k=models%2F8814a7bd8c4e46a3b1b1d3ed0adce991%2Fassets",
+          "validUntil":"2099-01-01T08:10:46Z",
+          "__typename" : "Texture"
+        }, {
+          "id" : "50k-high",
+          "status" : "available",
+          "format" : "jpg",
+          "resolution" : "50k",
+          "quality" : "high",
+          "urlTemplate" : "http://127.0.0.1:8080/models/8814a7bd8c4e46a3b1b1d3ed0adce991/assets/~/079cc5182f2d46fea01a7b21612cd78f_50k_texture_jpg_high/079cc5182f2d46fea01a7b21612cd78f_50k_<texture>.jpg?t=2-c8a6f53e9724d7eb56ed796242f8bc6552f8b96d-1700986246-0&k=models%2F8814a7bd8c4e46a3b1b1d3ed0adce991%2Fassets",
+          "validUntil":"2099-01-01T08:10:46Z",
+          "__typename" : "Texture"
+        } ],
+        "tilesets" : [ {
+          "status" : "available",
+          "tilesetVersion" : "1.2.0",
+          "url" : "http://127.0.0.1:8080/models/8814a7bd8c4e46a3b1b1d3ed0adce991/assets/mesh_tiles/~/tileset.json?t=2-0e00848accc96351fb88d0973032f1c3beba8e26-1700986246-1&k=models%2F8814a7bd8c4e46a3b1b1d3ed0adce991%2Fassets%2Fmesh_tiles",
+          "urlTemplate" : "http://127.0.0.1:8080/models/8814a7bd8c4e46a3b1b1d3ed0adce991/assets/mesh_tiles/~/<file>?t=2-0e00848accc96351fb88d0973032f1c3beba8e26-1700986246-1&k=models%2F8814a7bd8c4e46a3b1b1d3ed0adce991%2Fassets%2Fmesh_tiles",
+          "validUntil":"2099-01-01T08:10:46Z",
+          "tilesetDepth" : 3,
+          "tilesetPreset" : "basic1",
+          "__typename" : "Tileset"
+        } ],
+        "__typename" : "ModelAssets"
+      },
+      "lod" : {
+        "options" : [ "lod2" ],
+        "__typename" : "PolicyOptions"
+      }
+    }
+  }
+}

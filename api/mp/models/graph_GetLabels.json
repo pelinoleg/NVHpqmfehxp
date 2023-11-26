@@ -1,0 +1,239 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "NVHpqmfehxp",
+      "labels" : [ {
+        "id" : "aOvGodQls8C",
+        "position" : {
+          "x" : -1.1937407675097056,
+          "y" : -2.8539445383317967,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "tt6gm2a0463x9wmnx7rn6gugc",
+          "meshId" : 5,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "ROOM 3 DOUBLE BED",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:20Z",
+        "modified" : "2023-04-07T05:57:24Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "pbuWK6dwP8z",
+        "position" : {
+          "x" : 4.91409133203568,
+          "y" : 0.7350824652948721,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "cdz3fkt38kae7tapstpt0eaeb",
+          "meshId" : 3,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "HALLWAY ",
+        "enabled" : true,
+        "created" : "2023-04-07T05:58:54Z",
+        "modified" : "2023-04-07T05:58:54Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "VTANx7PKtTO",
+        "position" : {
+          "x" : 2.0709765671145535,
+          "y" : -3.156633562734046,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "3m54yff1z7crxaywd8if9rb0d",
+          "meshId" : 7,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "KITCHEN",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:10Z",
+        "modified" : "2023-04-07T05:57:10Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "0LmThSKUjOt",
+        "position" : {
+          "x" : -3.3233742606255294,
+          "y" : -0.06488138491107234,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "BALCONY",
+        "enabled" : true,
+        "created" : "2023-04-07T05:58:14Z",
+        "modified" : "2023-04-07T05:58:18Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "uc8T8uneJWS",
+        "position" : {
+          "x" : 8.081515765959217,
+          "y" : -1.6756194076230408,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "h26t7ky77ew74yb0pg8qqf5rd",
+          "meshId" : 6,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "ROOM 1 SINGLE BED",
+        "enabled" : true,
+        "created" : "2023-04-07T05:55:44Z",
+        "modified" : "2023-04-07T05:55:48Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "uoZLMWIelhr",
+        "position" : {
+          "x" : 10.038184102273753,
+          "y" : -1.2107755487195866,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "HALL",
+        "enabled" : true,
+        "created" : "2023-04-07T06:00:05Z",
+        "modified" : "2023-04-07T06:00:05Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "LdKh93Rq0v1",
+        "position" : {
+          "x" : 5.097866811137044,
+          "y" : -0.29189815321275897,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "2qdmc5i9byxi79ry1pxdkqzea",
+          "meshId" : 8,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "ROOM 2 SINGLE BED",
+        "enabled" : true,
+        "created" : "2023-04-07T05:56:23Z",
+        "modified" : "2023-04-07T05:56:29Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "MRUsXx6DJPj",
+        "position" : {
+          "x" : -0.9559136769079384,
+          "y" : -0.1513639633117149,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "613htqkzf66zz7hf7n8kzszed",
+          "meshId" : 2,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "LIVING ROOM DINING ROOM",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:58Z",
+        "modified" : "2023-04-07T05:58:01Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "YNnq0yaGzJ2",
+        "position" : {
+          "x" : 2.8601300950204176,
+          "y" : -0.5081045992143656,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "a5f9age4zzxewres6iqux2emc",
+          "meshId" : 9,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "BATHROOM",
+        "enabled" : true,
+        "created" : "2023-04-07T05:57:02Z",
+        "modified" : "2023-04-07T05:57:02Z",
+        "__typename" : "Label"
+      }, {
+        "id" : "876PfyqoFWd",
+        "position" : {
+          "x" : 10.027373779973676,
+          "y" : -0.9621381358177393,
+          "z" : 1.6232249736785889,
+          "__typename" : "Point"
+        },
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : {
+          "id" : "xy2x8mpaaqknp7q2c3nnbw1ma",
+          "meshId" : 4,
+          "__typename" : "ModelRoom"
+        },
+        "label" : "RECEPTION",
+        "enabled" : true,
+        "created" : "2023-04-07T05:59:29Z",
+        "modified" : "2023-04-07T05:59:55Z",
+        "__typename" : "Label"
+      } ],
+      "__typename" : "Model"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+2023-11-26 09:43:10 INFO     Server started up
+2023-11-26 09:43:12 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:43:13 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:43:13 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:43:13 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:43:13 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:43:29 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:43:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:43:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:43:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:43:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:46:01 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:46:01 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:46:01 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:46:01 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:46:22 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:46:22 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:46:22 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:46:22 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:46:26 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:46:26 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:46:26 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:46:26 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:47:21 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:47:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:47:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:47:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:47:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:47:22 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:47:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:47:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:47:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:47:23 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:47:29 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:47:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:47:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:47:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:47:29 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:48:19 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:48:19 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:48:20 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:48:20 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:48:20 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:48:21 INFO     Redirecting /js/showcase.js => /js/showcase-internal.js as using our internal showcase.js file
+2023-11-26 09:48:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:48:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:48:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:48:21 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally
+2023-11-26 09:48:34 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelPolicies we are handling internally
+2023-11-26 09:48:34 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetLayers we are handling internally
+2023-11-26 09:48:34 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetModelViewPrefetch we are handling internally
+2023-11-26 09:48:34 INFO     Handling a post request on /api/mp/models/graph: graph of operationName: GetSnapshots we are handling internally

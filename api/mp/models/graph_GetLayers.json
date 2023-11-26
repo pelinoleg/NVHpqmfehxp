@@ -1,0 +1,22 @@
+{
+  "data" : {
+    "view" : {
+      "id" : "NVHpqmfehxp",
+      "layers" : [ {
+        "layer" : {
+          "id" : "aaaaaaaaaaaaaaaaaaaaaaaaa",
+          "created" : "2023-03-27T19:23:55Z",
+          "modified" : "2023-10-01T14:34:58Z",
+          "type" : "matterport.base",
+          "name" : null,
+          "label" : "",
+          "__typename" : "ModelLayer"
+        },
+        "position" : 0,
+        "visible" : true,
+        "__typename" : "ModelViewLayer"
+      } ],
+      "__typename" : "ModelView"
+    }
+  }
+}

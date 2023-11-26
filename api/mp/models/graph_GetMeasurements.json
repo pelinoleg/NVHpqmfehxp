@@ -1,0 +1,54 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "NVHpqmfehxp",
+      "measurementPaths" : [ {
+        "id" : "nk1z1ywz05rktd3a7xp5kczua",
+        "lineType" : "linetype_3D",
+        "label" : null,
+        "enabled" : true,
+        "points" : [ {
+          "position" : {
+            "x" : -1.1620481967828855,
+            "y" : -1.6077703933492815,
+            "z" : 1.9710555359859423,
+            "__typename" : "Point"
+          },
+          "floor" : {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "__typename" : "ModelFloor"
+          },
+          "room" : {
+            "id" : "613htqkzf66zz7hf7n8kzszed",
+            "meshId" : 2,
+            "__typename" : "ModelRoom"
+          },
+          "__typename" : "MeasurementPathPoint"
+        }, {
+          "position" : {
+            "x" : -1.9482062473164208,
+            "y" : -1.5763960095673388,
+            "z" : 1.5078419058803865,
+            "__typename" : "Point"
+          },
+          "floor" : {
+            "id" : "tsmq1wak12rhgn0mawksxcwcd",
+            "meshId" : 0,
+            "__typename" : "ModelFloor"
+          },
+          "room" : {
+            "id" : "613htqkzf66zz7hf7n8kzszed",
+            "meshId" : 2,
+            "__typename" : "ModelRoom"
+          },
+          "__typename" : "MeasurementPathPoint"
+        } ],
+        "created" : "2023-05-01T16:52:33Z",
+        "modified" : "2023-05-01T16:52:33Z",
+        "__typename" : "MeasurementPath"
+      } ],
+      "__typename" : "Model"
+    }
+  }
+}

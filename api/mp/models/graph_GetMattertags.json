@@ -1,0 +1,40 @@
+{
+  "data" : {
+    "model" : {
+      "id" : "NVHpqmfehxp",
+      "mattertags" : [ {
+        "id" : "AQ4IQDAcyUE",
+        "label" : "TOURISM IN PINEDA DE MAR",
+        "description" : "Pineda De Mar is a municipality in the comarca of the Maresme in Catalonia. It is situated on the coast between Calella and Santa Susanna. The main N-II road and a RENFE railway line run through the town. The town centre has several historical buildings from the 17th to the 19th centuries It is situated on the Coast Barcelona Maresme",
+        "color" : "#00bcd4",
+        "enabled" : true,
+        "floor" : {
+          "id" : "tsmq1wak12rhgn0mawksxcwcd",
+          "meshId" : 0,
+          "__typename" : "ModelFloor"
+        },
+        "room" : null,
+        "anchorPosition" : {
+          "x" : -2.0158112070624483,
+          "y" : 0.08262493642550384,
+          "z" : -0.0016832686038471914,
+          "__typename" : "Point"
+        },
+        "stemEnabled" : true,
+        "stemNormal" : {
+          "x" : 0.0011948526982171932,
+          "y" : -4.110931201198603E-4,
+          "z" : 0.9999992016644195,
+          "__typename" : "Point"
+        },
+        "stemLength" : 1.5048194016247274,
+        "media" : "https://www.youtube.com/watch?v=JQuH8qgbT70&ab_channel=TravelSanctuary",
+        "mediaType" : "video",
+        "created" : "2023-04-07T06:16:16Z",
+        "modified" : "2023-04-07T06:16:17Z",
+        "__typename" : "Mattertag"
+      } ],
+      "__typename" : "Model"
+    }
+  }
+}
